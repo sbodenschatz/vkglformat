@@ -1,0 +1,2 @@
+Commit 50046003e2ef2e5a97b198042bcd749fb0631f23 on https://github.com/KhronosGroup/Vulkan-Samples
+Packaged 2017-08-23
