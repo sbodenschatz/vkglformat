@@ -79,6 +79,12 @@ static inline VkFormat vkGetFormatFromOpenGLType( const GLenum type, const GLuin
 static inline VkFormat vkGetFormatFromOpenGLInternalFormat( const GLenum internalFormat );
 static inline void vkGetFormatSize( const VkFormat format, VkFormatSize * pFormatSize );
 
+
+MODIFICATIONS
+=============
+
+- Fixed transposed mapping between DXT3 and DXT5 to BC2 and BC3 formats -- Stefan Bodenschatz
+
 ================================================================================================
 */
 

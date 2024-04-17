@@ -1,5 +1,5 @@
-https://github.com/KhronosGroup/Vulkan-Samples
-
+Based on commit 50046003e2ef2e5a97b198042bcd749fb0631f23 from https://github.com/KhronosGroup/Vulkan-Samples-Deprecated
+Packaged 2017-09-14
 Modifications to upstream:
 diff --git a/include/vulkan/vk_format.h b/include/vulkan/vk_format.h
 index d73d45b..6bfd9e6 100644
